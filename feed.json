@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2025/01/11/interstellar-went-to-great-lengths.html",
+				
+				"content_html": "<p><em>Interstellar</em> went to great lengths to make that <a href=\"https://youtu.be/MfGfZwQ_qaY\">black hole</a> look “real” which is admirable. (Makes me want rewatch in an Apple Vision Pro. I missed it in IMAX.)</p>\n",
+				"content_text": "_Interstellar_ went to great lengths to make that [black hole](https://youtu.be/MfGfZwQ_qaY) look “real” which is admirable. (Makes me want rewatch in an Apple Vision Pro. I missed it in IMAX.)\n",
+				"date_published": "2025-01-11T22:42:15-06:00",
+				"url": "https://haglund.app/2025/01/11/interstellar-went-to-great-lengths.html"
+			},
+			{
+				"id": "http://haglund.micro.blog/2025/01/11/i-hope-burl-ives-descendants.html",
+				
+				"content_html": "<p>I hope Burl Ives’ descendants are swimming in royalties. “Ron Burgundy had never heard <a href=\"https://youtu.be/Xy2X0kdCQms?si=NaZ1bAPX0N5jccjl\">that song</a> so when he fell, he fell hard.”</p>\n",
+				"content_text": "I hope Burl Ives’ descendants are swimming in royalties. “Ron Burgundy had never heard [that song](https://youtu.be/Xy2X0kdCQms?si=NaZ1bAPX0N5jccjl) so when he fell, he fell hard.” \n",
+				"date_published": "2025-01-11T22:25:30-06:00",
+				"url": "https://haglund.app/2025/01/11/i-hope-burl-ives-descendants.html"
+			},
+			{
+				"id": "http://haglund.micro.blog/2025/01/09/thinking-about-genmoji-itd-be.html",
+				
+				"content_html": "<p>Thinking about <a href=\"https://support.apple.com/guide/iphone/create-genmoji-with-apple-intelligence-iph4e76f5667/ios\">Genmoji</a>: it’d be fascinating if Apple could collect every request and identify contenders for proper Unicode Emoji proposals based on popularity.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Thinking about [Genmoji](https://support.apple.com/guide/iphone/create-genmoji-with-apple-intelligence-iph4e76f5667/ios): it’d be fascinating if Apple could collect every request and identify contenders for proper Unicode Emoji proposals based on popularity.\n\n<img src=\"uploads/2025/fe02038915.jpg\" width=\"592\" height=\"600\" alt=\"Cacti wearing Santa hats in Genmoji interface\">\n",
+				"date_published": "2025-01-09T12:35:05-06:00",
+				"url": "https://haglund.app/2025/01/09/thinking-about-genmoji-itd-be.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2025/01/02/i-am-happy-to-pay.html",
 				
 				"content_html": "<p>I am happy to pay $5/mo for Micro.blog and the new <a href=\"https://micro.one/\">Micro.one</a> is an <em>incredible</em> value at $1/mo. Congrats to <a href=\"https://micro.blog/manton\">@manton</a> for launching! I hope it’s wildly successful.</p>\n<p>It has 95% of the features I care about, so I do a feel a bit like: hmm maybe I could save $4/mo?</p>\n",
@@ -26,7 +50,7 @@
 				"id": "http://haglund.micro.blog/2024/12/31/i-got-halfway-done-building.html",
 				
 				"content_html": "<p>I got halfway done building an iOS app to show <a href=\"https://github.com/merlinmann/wisdom/blob/master/wisdom.md\">Merlin’s Wisdom Project</a> as a home screen widget when I found out Ice Cubes can do this thanks to a fun bot account.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I got halfway done building an iOS app to show [Merlin’s Wisdom Project](https://github.com/merlinmann/wisdom/blob/master/wisdom.md) as a home screen widget when I found out Ice Cubes can do this thanks to a fun bot account.\n\n<img src=\"uploads/2025/05518f2177.jpg\" width=\"600\" height=\"302\" alt=\"\">\n",
+				"content_text": "I got halfway done building an iOS app to show [Merlin’s Wisdom Project](https://github.com/merlinmann/wisdom/blob/master/wisdom.md) as a home screen widget when I found out Ice Cubes can do this thanks to a fun bot account.\n\n<img src=\"https://cdn.uploads.micro.blog/31180/2025/05518f2177.jpg\" width=\"600\" height=\"302\" alt=\"\">\n",
 				"date_published": "2024-12-31T19:48:00-06:00",
 				"url": "https://haglund.app/2024/12/31/i-got-halfway-done-building.html"
 			},
@@ -42,7 +66,7 @@
 				"id": "http://haglund.micro.blog/2024/12/31/did-you-know-bob-dylan.html",
 				
 				"content_html": "<p>Did you know Bob Dylan can weld? At least according to <a href=\"https://www.heavensdoor.com/\">his whiskey website</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Did you know Bob Dylan can weld? At least according to [his whiskey website](https://www.heavensdoor.com/).\n\n<img src=\"uploads/2024/4497070845.jpg\" width=\"600\" height=\"278\" alt=\"Bob Dylan wearing a welding helmet while working on intricate metal artwork.\">\n",
+				"content_text": "Did you know Bob Dylan can weld? At least according to [his whiskey website](https://www.heavensdoor.com/).\n\n<img src=\"https://cdn.uploads.micro.blog/31180/2024/4497070845.jpg\" width=\"600\" height=\"278\" alt=\"Bob Dylan wearing a welding helmet while working on intricate metal artwork.\">\n",
 				"date_published": "2024-12-31T16:38:33-06:00",
 				"url": "https://haglund.app/2024/12/31/did-you-know-bob-dylan.html"
 			},

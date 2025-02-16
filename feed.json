@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2025/02/15/watched-and-enjoyed-his-three.html",
+				
+				"content_html": "<p>Watched and enjoyed <em><a href=\"https://www.netflix.com/title/81733310\">His Three Daughters</a></em> tonight on Netflix. Takeaway: don’t let small things ruin big relationships in your life and don’t leave things unsaid.</p>\n",
+				"content_text": "Watched and enjoyed _[His Three Daughters](https://www.netflix.com/title/81733310)_ tonight on Netflix. Takeaway: don’t let small things ruin big relationships in your life and don’t leave things unsaid.\n",
+				"date_published": "2025-02-15T21:49:38-06:00",
+				"url": "https://haglund.app/2025/02/15/watched-and-enjoyed-his-three.html"
+			},
+			{
+				"id": "http://haglund.micro.blog/2025/02/09/i-joked-that-in-the.html",
+				
+				"content_html": "<p>I joked that in the time that the Super Bowl would air we could watch <em>Lawrence of Arabia</em> instead. But it’s honestly been a very entertaining game so far.</p>\n",
+				"content_text": "I joked that in the time that the Super Bowl would air we could watch _Lawrence of Arabia_ instead. But it’s honestly been a very entertaining game so far.\n",
+				"date_published": "2025-02-09T18:47:26-06:00",
+				"url": "https://haglund.app/2025/02/09/i-joked-that-in-the.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2025/02/08/today-is-a-monumental-day.html",
 				
 				"content_html": "<p>Today is a monumental day. I hit the maximum amount of tabs in Safari on the iPhone. (It’s 500 in case you were wondering.)</p>\n<p>I also discovered you can long on on a tab group to copy all URLs (to stash into Notes).</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +58,7 @@
 				"id": "http://haglund.micro.blog/2025/01/29/according-to-cnn-business-fear.html",
 				
 				"content_html": "<p>According to <a href=\"https://www.cnn.com/markets/premarkets\">CNN Business</a>, “Fear is driving the US market”</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "According to [CNN Business](https://www.cnn.com/markets/premarkets), “Fear is driving the US market”\n\n<img src=\"uploads/2025/52cf2b98a9.jpg\" width=\"600\" height=\"337\" alt=\"A green, wise-looking character with pointy ears, often associated with wisdom and teaching, appears contemplative.\">\n",
+				"content_text": "According to [CNN Business](https://www.cnn.com/markets/premarkets), “Fear is driving the US market”\n\n<img src=\"https://cdn.uploads.micro.blog/31180/2025/52cf2b98a9.jpg\" width=\"600\" height=\"337\" alt=\"A green, wise-looking character with pointy ears, often associated with wisdom and teaching, appears contemplative.\">\n",
 				"date_published": "2025-01-29T00:15:56-06:00",
 				"url": "https://haglund.app/2025/01/29/according-to-cnn-business-fear.html"
 			},

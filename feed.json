@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2025/04/19/i-loved-this-post-by.html",
+				
+				"content_html": "<p>I loved <a href=\"https://pluralistic.net/2025/04/19/gotcha/\">this post</a> by Cory Doctorow. It is bananas how we have collectively ceded our privacy online:</p>\n<blockquote>\n<p>… we should just update privacy law so that doing certain things with your private data is illegal, without your ongoing, continuous, revocable consent.</p>\n<p>Obviously, this would come as a severe shock to the tech economy, which is totally structured around commercial surveillance. But the fact that an extremely harmful practice is also extremely widespread is <em>not</em> a reason to keep on doing it – it&rsquo;s a reason to <em>stop</em>.</p>\n</blockquote>\n",
+				"content_text": "I loved [this post](https://pluralistic.net/2025/04/19/gotcha/) by Cory Doctorow. It is bananas how we have collectively ceded our privacy online:\n\n> … we should just update privacy law so that doing certain things with your private data is illegal, without your ongoing, continuous, revocable consent.\n> \n> Obviously, this would come as a severe shock to the tech economy, which is totally structured around commercial surveillance. But the fact that an extremely harmful practice is also extremely widespread is _not_ a reason to keep on doing it – it's a reason to _stop_.\n",
+				"date_published": "2025-04-19T09:44:03-05:00",
+				"url": "https://haglund.app/2025/04/19/i-loved-this-post-by.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2025/04/08/mini-regret.html",
 				"title": "Mini Regret",
 				"content_html": "<p>I bought the base M4 Pro Mac mini and have a <em>twinge</em> of buyer’s remorse after seeing the base M4 Max Mac Studio. For $600 more you get 2x the GPU, 2 more CPU cores, 12 GB more RAM, SD card slot, and more ports.</p>\n<p>The only downside? Less cute.</p>\n",

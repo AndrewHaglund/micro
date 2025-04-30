@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2025/04/30/the-app-store-should-have.html",
+				
+				"content_html": "<p>The App Store should have worked this way since day 1.</p>\n<p>From Jay Peters at <a href=\"https://www.theverge.com/news/659246/apple-epic-app-store-judge-ruling-control\">The Verge</a>:</p>\n<blockquote>\n<p>Apple Cannot:</p>\n</blockquote>\n<ul>\n<li>Impose “any commission or any fee on purchases that consumers make outside an app”</li>\n<li>Restrict developers’ style, formatting, or placement of links for purchases outside of an app</li>\n<li>Block or limit the “use of buttons or other calls to action”</li>\n<li>Interfere with consumers’ choice to leave an app with anything beyond “a neutral message apprising users that they are going to a third-party site”</li>\n</ul>\n",
+				"content_text": "The App Store should have worked this way since day 1.\n\nFrom Jay Peters at [The Verge](https://www.theverge.com/news/659246/apple-epic-app-store-judge-ruling-control):\n> Apple Cannot:\n- Impose “any commission or any fee on purchases that consumers make outside an app”\n- Restrict developers’ style, formatting, or placement of links for purchases outside of an app\n- Block or limit the “use of buttons or other calls to action”\n- Interfere with consumers’ choice to leave an app with anything beyond “a neutral message apprising users that they are going to a third-party site”\n",
+				"date_published": "2025-04-30T18:46:45-05:00",
+				"url": "https://haglund.app/2025/04/30/the-app-store-should-have.html"
+			},
+			{
+				"id": "http://haglund.micro.blog/2025/04/20/my-favorite-thing-with-reviews.html",
+				
+				"content_html": "<p>My favorite thing with reviews on <em>Pitchfork</em> is that anyone could possibly classify music as a 10.0 or a 7.8. For example, Bon Iver’s latest album <a href=\"https://music.apple.com/us/album/sable-fable/1791161215\"><em>SABLE, fABLE</em></a> is <a href=\"https://pitchfork.com/reviews/albums/bon-iver-sable-fable/\">accurately described</a> by Alex Robert Ross as melancholic, beautiful, and exuberant. It’s also an 8.1 out of 10.</p>\n",
+				"content_text": "My favorite thing with reviews on _Pitchfork_ is that anyone could possibly classify music as a 10.0 or a 7.8. For example, Bon Iver’s latest album [_SABLE, fABLE_](https://music.apple.com/us/album/sable-fable/1791161215) is [accurately described](https://pitchfork.com/reviews/albums/bon-iver-sable-fable/) by Alex Robert Ross as melancholic, beautiful, and exuberant. It’s also an 8.1 out of 10.\n",
+				"date_published": "2025-04-20T09:54:41-05:00",
+				"url": "https://haglund.app/2025/04/20/my-favorite-thing-with-reviews.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2025/04/19/i-loved-this-post-by.html",
 				
 				"content_html": "<p>I loved <a href=\"https://pluralistic.net/2025/04/19/gotcha/\">this post</a> by Cory Doctorow. It is bananas how we have collectively ceded our privacy online:</p>\n<blockquote>\n<p>… we should just update privacy law so that doing certain things with your private data is illegal, without your ongoing, continuous, revocable consent.</p>\n<p>Obviously, this would come as a severe shock to the tech economy, which is totally structured around commercial surveillance. But the fact that an extremely harmful practice is also extremely widespread is <em>not</em> a reason to keep on doing it – it&rsquo;s a reason to <em>stop</em>.</p>\n</blockquote>\n",

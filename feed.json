@@ -9,8 +9,8 @@
 			{
 				"id": "http://haglund.micro.blog/2025/10/09/bon-ivers-day-one-is.html",
 				
-				"content_html": "<p>Bon Iver’s <a href=\"https://youtu.be/jd2bebzkPS0\">Day One</a> is one of those songs that instantly fills me with happiness. This video is a delight!</p>\n",
-				"content_text": "Bon Iver’s [Day One](https://youtu.be/jd2bebzkPS0) is one of those songs that instantly fills me with happiness. This video is a delight!\n",
+				"content_html": "<p>Bon Iver’s <em><a href=\"https://youtu.be/jd2bebzkPS0\">Day One</a></em> is one of those songs that instantly fills me with happiness. This video is a delight!</p>\n",
+				"content_text": "Bon Iver’s _[Day One](https://youtu.be/jd2bebzkPS0)_ is one of those songs that instantly fills me with happiness. This video is a delight!\n",
 				"date_published": "2025-10-09T22:07:13-05:00",
 				"url": "https://haglund.app/2025/10/09/bon-ivers-day-one-is.html"
 			},

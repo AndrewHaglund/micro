@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2025/11/02/i-say-would-you-like.html",
+				
+				"content_html": "<p>I say “would you like to watch a slow horse?” instead of “would you like to watch an episode of <em>Slow Horses</em>?” and luckily my spouse gets what I mean.</p>\n",
+				"content_text": "I say “would you like to watch a slow horse?” instead of “would you like to watch an episode of _Slow Horses_?” and luckily my spouse gets what I mean.\n",
+				"date_published": "2025-11-02T20:26:30-05:00",
+				"url": "https://haglund.app/2025/11/02/i-say-would-you-like.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2025/10/16/today-i-bought-nova-on.html",
 				
 				"content_html": "<p>Today I bought <a href=\"https://nova.app/\">Nova</a> on <a href=\"https://nova.app/buy/\">sale</a>. I just want to support the good people at <a href=\"https://www.panic.com/\">Panic</a> making great Mac apps.</p>\n",

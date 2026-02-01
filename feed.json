@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2026/02/01/one-of-my-favorite-pastimes.html",
+				
+				"content_html": "<p>One of my favorite pastimes is falling deeply in love with an album then looking at Pitchfork’s review calling it a &ldquo;5 out of 10&rdquo;.</p>\n<p>My most recent example is <em><a href=\"https://music.apple.com/us/album/the-crux/1791184860\">The Crux</a></em> by Djo (Joe Keery). It’s catchy and has obvious influences from Billy Joel, Bowie, Queen, to name a few. What’s not to love?</p>\n",
+				"content_text": "One of my favorite pastimes is falling deeply in love with an album then looking at Pitchfork’s review calling it a \"5 out of 10\".\n\nMy most recent example is _[The Crux](https://music.apple.com/us/album/the-crux/1791184860)_ by Djo (Joe Keery). It’s catchy and has obvious influences from Billy Joel, Bowie, Queen, to name a few. What’s not to love?\n",
+				"date_published": "2026-02-01T13:11:31-06:00",
+				"url": "https://haglund.app/2026/02/01/one-of-my-favorite-pastimes.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2026/01/29/wild-this-is-the-future.html",
 				
 				"content_html": "<p>Wild “this is the future” experience thanks to <a href=\"https://shellfishapp.com/\">Shellfish</a> for iPhone, <a href=\"https://github.com/tmux/tmux/wiki\">tmux</a>, and Claude Code: while making coffee this morning I had an idea for an app I&rsquo;m building. I dictated the idea to my phone, hit send, and my Mac and Claude started churning away in my office. A bit later I put the build on my phone and <em>there it was</em>. Magic.</p>\n",

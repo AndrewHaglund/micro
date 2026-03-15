@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2026/03/15/i-am-hoping-to-release.html",
+				
+				"content_html": "<p>I am hoping to release a new app this week. If you’re in the Champaign-Urbana area, this app is for you! If you’re interested let me know and I’ll send you a TestFlight invite.</p>\n",
+				"content_text": "I am hoping to release a new app this week. If you’re in the Champaign-Urbana area, this app is for you! If you’re interested let me know and I’ll send you a TestFlight invite.\n",
+				"date_published": "2026-03-15T18:31:28-05:00",
+				"url": "https://haglund.app/2026/03/15/i-am-hoping-to-release.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2026/03/08/weve-been-watching-malcom-in.html",
 				
 				"content_html": "<p>We’ve been watching <em>Malcolm in the Middle</em> and <a href=\"https://www.youtube.com/watch?v=AbSehcT19u0\">the cold opening to s3e6 </a> is all too real. My wife just stared at me: <em>that’s what you have</em>.</p>\n",

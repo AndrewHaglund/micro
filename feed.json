@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2026/03/21/i-have-literally-heard-people.html",
+				
+				"content_html": "<p>I have literally heard people at work (hint: not designers!) say things like “we won’t need those pesky engineers anymore” which is so ridiculous and just plain rude. From <a href=\"https://blog.jim-nielsen.com/2026/re-people-arent-friction/\">Jim Nielsen</a>:</p>\n<blockquote>\n<p>AI whispers in our ears: “everyone else’s job is easy except yours”.</p>\n</blockquote>\n",
+				"content_text": "I have literally heard people at work (hint: not designers!) say things like “we won’t need those pesky engineers anymore” which is so ridiculous and just plain rude. From [Jim Nielsen](https://blog.jim-nielsen.com/2026/re-people-arent-friction/):\n\n> AI whispers in our ears: “everyone else’s job is easy except yours”.\n",
+				"date_published": "2026-03-21T07:09:06-05:00",
+				"url": "https://haglund.app/2026/03/21/i-have-literally-heard-people.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2026/03/18/i-made-an-app-for.html",
 				
 				"content_html": "<p>I made an app for my dad but after multiple, multi-day (4-5 days) rounds with App Store review* I decided to just add him to the TestFlight. I wish Apple didn’t insist on being a gatekeeper.</p>\n<p>*minor metadata issue (that I cannot reproduce) where the reviewer can’t install the watchOS app.</p>\n",

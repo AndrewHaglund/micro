@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2026/04/02/glad-to-see-new-open.html",
+				
+				"content_html": "<p>Glad to see new open source solutions for building websites with <a href=\"https://blog.cloudflare.com/emdash-wordpress/\">EmDash</a>. Something that gets loss in the static site generator world (or writing sites by hand) is ease of use for non-technical people that’s only afforded with a CMS. (I am interested to see <a href=\"https://ma.tt/\">spicy Matt’s</a> thoughts.)</p>\n",
+				"content_text": "Glad to see new open source solutions for building websites with [EmDash](https://blog.cloudflare.com/emdash-wordpress/). Something that gets loss in the static site generator world (or writing sites by hand) is ease of use for non-technical people that’s only afforded with a CMS. (I am interested to see [spicy Matt’s](https://ma.tt/) thoughts.)\n",
+				"date_published": "2026-04-02T12:11:22-05:00",
+				"url": "https://haglund.app/2026/04/02/glad-to-see-new-open.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2026/03/30/its-a-small-thing-and.html",
 				
 				"content_html": "<p>It’s a small thing (and probably intended for iPad), but I feel like this <a href=\"https://www.macrumors.com/2026/03/30/everything-new-in-ios-26-5-beta-1/\">iOS 26.5 feature</a> is destined for a foldable iPhone:</p>\n<blockquote>\n<p>When you connect … a Magic Keyboard to an iPhone over USB-C, the iPhone will automatically establish a Bluetooth connection.</p>\n</blockquote>\n",

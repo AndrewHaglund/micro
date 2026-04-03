@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2026/04/03/seams-sew-reasonable-is-a.html",
+				
+				"content_html": "<p>“Seams Sew Reasonable” is a real business name for a seamstress at a retirement community.</p>\n",
+				"content_text": "“Seams Sew Reasonable” is a real business name for a seamstress at a retirement community.\n",
+				"date_published": "2026-04-03T12:57:07-05:00",
+				"url": "https://haglund.app/2026/04/03/seams-sew-reasonable-is-a.html"
+			},
+			{
+				"id": "http://haglund.micro.blog/2026/04/02/i-made-an-app-that.html",
+				
+				"content_html": "<p>I made an app that pulls together local events across the Champaign-Urbana area. <a href=\"https://apps.apple.com/us/app/turn-of-events/id6759078467\">Turn of Events</a> is entirely free, and always will be! If you’re in the area check it out.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I made an app that pulls together local events across the Champaign-Urbana area. [Turn of Events](https://apps.apple.com/us/app/turn-of-events/id6759078467) is entirely free, and always will be! If you’re in the area check it out.\n\n<video controls=\"controls\" playsinline=\"playsinline\" preload=\"none\" width=\"720\" height=\"1280\" poster=\"https://haglund.app/uploads/2026/poster.jpg\" src=\"https://haglund.app/uploads/2026/image.mp4\"></video>\n",
+				"date_published": "2026-04-02T12:36:11-05:00",
+				"url": "https://haglund.app/2026/04/02/i-made-an-app-that.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2026/04/02/glad-to-see-new-open.html",
 				
 				"content_html": "<p>Glad to see new open source solutions for building websites with <a href=\"https://blog.cloudflare.com/emdash-wordpress/\">EmDash</a>. Something that gets loss in the static site generator world (or writing sites by hand) is ease of use for non-technical people that’s only afforded with a CMS. (I am interested to see <a href=\"https://ma.tt/\">spicy Matt’s</a> thoughts.)</p>\n",

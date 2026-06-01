@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2026/06/01/bought-a-tb-nvme-for.html",
+				
+				"content_html": "<p>Bought a 2TB NVMe for $150 (selling for <a href=\"https://www.amazon.com/dp/B08RK2SR23?th=1\">$450</a>, damn you AI companies for Smaug-style hoarding all electronics) from our local <a href=\"https://lag217.com/index.html\">used video game shop</a>. Thanks to the <a href=\"https://www.owc.com/solutions/express-1m2\">OWC 1M2 enclosure</a> I’ve big-time expanded my Mac mini for $225 all-in. Not bad.</p>\n",
+				"content_text": "Bought a 2TB NVMe for $150 (selling for [$450](https://www.amazon.com/dp/B08RK2SR23?th=1), damn you AI companies for Smaug-style hoarding all electronics) from our local [used video game shop](https://lag217.com/index.html). Thanks to the [OWC 1M2 enclosure](https://www.owc.com/solutions/express-1m2) I’ve big-time expanded my Mac mini for $225 all-in. Not bad.\n",
+				"date_published": "2026-06-01T10:29:14-05:00",
+				"url": "https://haglund.app/2026/06/01/bought-a-tb-nvme-for.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2026/05/26/what-year-is-it-just.html",
 				
-				"content_html": "<p>What year is it? Just got an iPod, Apple SuperDrive, and a My Morning Jacket CD (<em><a href=\"https://en.wikipedia.org/wiki/The_Waterfall_(album)?wprov=sfti1\">The Waterfall</a></em>) to start rebuilding my music library after 10 years of streaming.</p>\n<p>(I don’t have plans to cancel Apple Music, due to iCloud photo storage bundle, but I want to better support artists and own my music.)</p>\n",
-				"content_text": "What year is it? Just got an iPod, Apple SuperDrive, and a My Morning Jacket CD (_[The Waterfall](https://en.wikipedia.org/wiki/The_Waterfall_(album)?wprov=sfti1)_) to start rebuilding my music library after 10 years of streaming.\n\n(I don’t have plans to cancel Apple Music, due to iCloud photo storage bundle, but I want to better support artists and own my music.)\n",
+				"content_html": "<p>What year is it? Just got an iPod, Apple <a href=\"https://en.wikipedia.org/wiki/SuperDrive\">SuperDrive</a>, and a My Morning Jacket CD (<em><a href=\"https://en.wikipedia.org/wiki/The_Waterfall_(album)?wprov=sfti1\">The Waterfall</a></em>) to start rebuilding my music library after 10 years of streaming.</p>\n<p>(I don’t have plans to cancel Apple Music, due to iCloud photo storage bundle, but I want to better support artists and own my music.)</p>\n",
+				"content_text": "What year is it? Just got an iPod, Apple [SuperDrive](https://en.wikipedia.org/wiki/SuperDrive), and a My Morning Jacket CD (_[The Waterfall](https://en.wikipedia.org/wiki/The_Waterfall_(album)?wprov=sfti1)_) to start rebuilding my music library after 10 years of streaming.\n\n(I don’t have plans to cancel Apple Music, due to iCloud photo storage bundle, but I want to better support artists and own my music.)\n",
 				"date_published": "2026-05-26T16:50:58-05:00",
 				"url": "https://haglund.app/2026/05/26/what-year-is-it-just.html"
 			},

@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2026/06/29/im-excited-to-hear-the.html",
+				
+				"content_html": "<p>I’m excited to hear the <em>Designed in California</em> podcast later this year. One day left on their <a href=\"https://www.kickstarter.com/projects/designedincalifornia/designed-in-california-an-apple-history-podcast?ref=thanks-copy\">kickstarter</a>, check it out at designed.fm</p>\n",
+				"content_text": "I’m excited to hear the _Designed in California_ podcast later this year. One day left on their [kickstarter](https://www.kickstarter.com/projects/designedincalifornia/designed-in-california-an-apple-history-podcast?ref=thanks-copy), check it out at designed.fm\n",
+				"date_published": "2026-06-29T22:18:24-05:00",
+				"url": "https://haglund.app/2026/06/29/im-excited-to-hear-the.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2026/06/25/the-price-hikes-for-apple.html",
 				
 				"content_html": "<p>The price hikes for Apple computers are unfortunate. The question now is: will they ever come back down even when the great AI RAM hoarding is over?</p>\n",

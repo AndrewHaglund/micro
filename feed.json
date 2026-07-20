@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2026/07/20/happened-to-see-a-today.html",
+				
+				"content_html": "<p>Happened to see a ”today in history” Wikipedia article about the <a href=\"https://en.wikipedia.org/wiki/Pyr%C3%A9olophore\">Pyréolophore</a> an early internal-combustion engine. <a href=\"https://en.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce\">One</a> of its inventors created photography and the other was named <a href=\"https://en.wikipedia.org/wiki/Claude_Ni%C3%A9pce\">Claude</a>… which I’m assuming is the namesake of Anthropic’s AI?</p>\n",
+				"content_text": "Happened to see a ”today in history” Wikipedia article about the [Pyréolophore](https://en.wikipedia.org/wiki/Pyr%C3%A9olophore) an early internal-combustion engine. [One](https://en.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce) of its inventors created photography and the other was named [Claude](https://en.wikipedia.org/wiki/Claude_Ni%C3%A9pce)… which I’m assuming is the namesake of Anthropic’s AI?\n",
+				"date_published": "2026-07-20T10:25:07-05:00",
+				"url": "https://haglund.app/2026/07/20/happened-to-see-a-today.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2026/07/17/what-a-journey-the-odyssey.html",
 				"title": "What a Journey The Odyssey Is",
 				"content_html": "<p><a href=\"https://www.themoviedb.org/movie/1368337-the-odyssey\"><em>The Odyssey</em></a> is such a triumph and just overwhelming (especially in IMAX) and I just keep thinking about it.</p>\n<p>This movie could not have been made without first making <em>Batman</em>, <em>Dunkirk</em>, and <em>Oppenheimer</em> with all the years of expertise Nolan and his team have accrued. (Very counter to AI-hypers who hope there’s a shortcut to creating durable and lasting art.)</p>\n",

@@ -7,10 +7,26 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2026/08/19/i-like-listening-to-yoshis.html",
+				
+				"content_html": "<p>I like listening to <a href=\"https://music.nintendo.com/shared/en-US/US/tracks/f681075a-ac17-44b2-9a58-c84d1e375859\">Yoshi’s Island song</a> and dancing like Adam Scott in <em>Severence</em>.</p>\n",
+				"content_text": "I like listening to [Yoshi’s Island song](https://music.nintendo.com/shared/en-US/US/tracks/f681075a-ac17-44b2-9a58-c84d1e375859) and dancing like Adam Scott in _Severence_.\n",
+				"date_published": "2026-08-19T18:00:42-05:00",
+				"url": "https://haglund.app/2026/08/19/i-like-listening-to-yoshis.html"
+			},
+			{
+				"id": "http://haglund.micro.blog/2026/08/08/im-using-siri-ai-ios.html",
+				
+				"content_html": "<p>I’m using Siri AI (iOS 27 beta) to find ceiling fans and I can’t think of any product that has seen a leap like this year-over-year. It’s <em>unrecognizable</em> from iOS 26. (It’s no Codex, but it’s good.)</p>\n<p>The trick: people will need to forget their past (bad) experiences with Siri and give it a try.</p>\n",
+				"content_text": "I’m using Siri AI (iOS 27 beta) to find ceiling fans and I can’t think of any product that has seen a leap like this year-over-year. It’s _unrecognizable_ from iOS 26. (It’s no Codex, but it’s good.)\n\nThe trick: people will need to forget their past (bad) experiences with Siri and give it a try.\n",
+				"date_published": "2026-08-08T16:15:26-05:00",
+				"url": "https://haglund.app/2026/08/08/im-using-siri-ai-ios.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2026/08/07/this-its-too-powerful-story.html",
 				
-				"content_html": "<p>This “it’s too powerful” story <a href=\"https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/\">from OpenAI</a> and Anthropic is just marketing BS bluster to stoke fear.</p>\n",
-				"content_text": "This “it’s too powerful” story [from OpenAI](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/) and Anthropic is just marketing BS bluster to stoke fear.\n",
+				"content_html": "<p>This “it’s too powerful” story <a href=\"https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/\">from OpenAI</a> and Anthropic is just marketing BS bluster to stoke fear.</p>\n<p>(To clarify: these <em>are</em> powerful models and will find many security issues. But who are we kidding? You think they’re going to throw in the towel?)</p>\n",
+				"content_text": "This “it’s too powerful” story [from OpenAI](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/) and Anthropic is just marketing BS bluster to stoke fear.\n\n(To clarify: these _are_ powerful models and will find many security issues. But who are we kidding? You think they’re going to throw in the towel?)\n",
 				"date_published": "2026-08-07T17:51:07-05:00",
 				"url": "https://haglund.app/2026/08/07/this-its-too-powerful-story.html"
 			},
@@ -49,8 +65,8 @@
 			{
 				"id": "http://haglund.micro.blog/2026/07/13/its-a-work-in-progress.html",
 				
-				"content_html": "<p>It’s a work in progress but for the past month I’ve been working on an app to combine my favorite parts of <a href=\"https://callsheetapp.com/\">Callsheet</a> and <a href=\"https://www.sofahq.com/\">Sofa</a>. I often hop between the two: one for looking up cast and crew and the other to track shows and bookmark stuff to check out.</p>\n<img src=\"https://cdn.uploads.micro.blog/31180/2026/316c708273.png\" width=\"294\" height=\"600\" alt=\"\">\n",
-				"content_text": "It’s a work in progress but for the past month I’ve been working on an app to combine my favorite parts of [Callsheet](https://callsheetapp.com/) and [Sofa](https://www.sofahq.com/). I often hop between the two: one for looking up cast and crew and the other to track shows and bookmark stuff to check out.\n\n<img src=\"https://cdn.uploads.micro.blog/31180/2026/316c708273.png\" width=\"294\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>It’s a work in progress but for the past month I’ve been working on an app to combine my favorite parts of <a href=\"https://callsheetapp.com/\">Callsheet</a> and <a href=\"https://www.sofahq.com/\">Sofa</a>. I often hop between the two: one for looking up cast and crew and the other to track shows and bookmark stuff to check out.</p>\n<img src=\"uploads/2026/316c708273.png\" width=\"294\" height=\"600\" alt=\"\">\n",
+				"content_text": "It’s a work in progress but for the past month I’ve been working on an app to combine my favorite parts of [Callsheet](https://callsheetapp.com/) and [Sofa](https://www.sofahq.com/). I often hop between the two: one for looking up cast and crew and the other to track shows and bookmark stuff to check out.\n\n<img src=\"uploads/2026/316c708273.png\" width=\"294\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-07-13T22:06:35-05:00",
 				"url": "https://haglund.app/2026/07/13/its-a-work-in-progress.html"
 			},
@@ -201,8 +217,8 @@
 			{
 				"id": "http://haglund.micro.blog/2026/04/02/i-made-an-app-that.html",
 				
-				"content_html": "<p>I made an app that pulls together local events across the Champaign-Urbana area. <a href=\"https://apps.apple.com/us/app/turn-of-events/id6759078467\">Turn of Events</a> is entirely free, and always will be! If you’re in the area check it out.</p>\n<p><video controls=\"controls\" playsinline=\"playsinline\" preload=\"none\" width=\"720\" height=\"1280\" poster=\"https://haglund.app/uploads/2026/poster.jpg\" src=\"https://cdn.uploads.micro.blog/31180/2026/image.mp4\"></video></p>\n",
-				"content_text": "I made an app that pulls together local events across the Champaign-Urbana area. [Turn of Events](https://apps.apple.com/us/app/turn-of-events/id6759078467) is entirely free, and always will be! If you’re in the area check it out.\n\n<video controls=\"controls\" playsinline=\"playsinline\" preload=\"none\" width=\"720\" height=\"1280\" poster=\"https://haglund.app/uploads/2026/poster.jpg\" src=\"https://cdn.uploads.micro.blog/31180/2026/image.mp4\"></video>\n",
+				"content_html": "<p>I made an app that pulls together local events across the Champaign-Urbana area. <a href=\"https://apps.apple.com/us/app/turn-of-events/id6759078467\">Turn of Events</a> is entirely free, and always will be! If you’re in the area check it out.</p>\n<p><video controls=\"controls\" playsinline=\"playsinline\" preload=\"none\" width=\"720\" height=\"1280\" poster=\"https://haglund.app/uploads/2026/poster.jpg\" src=\"https://haglund.app/uploads/2026/image.mp4\"></video></p>\n",
+				"content_text": "I made an app that pulls together local events across the Champaign-Urbana area. [Turn of Events](https://apps.apple.com/us/app/turn-of-events/id6759078467) is entirely free, and always will be! If you’re in the area check it out.\n\n<video controls=\"controls\" playsinline=\"playsinline\" preload=\"none\" width=\"720\" height=\"1280\" poster=\"https://haglund.app/uploads/2026/poster.jpg\" src=\"https://haglund.app/uploads/2026/image.mp4\"></video>\n",
 				"date_published": "2026-04-02T12:36:11-05:00",
 				"url": "https://haglund.app/2026/04/02/i-made-an-app-that.html"
 			},
@@ -661,6 +677,14 @@
 				"content_text": "I have an object in my home that is used as a prop in _Severence_ but I don’t know the designer. I got it at a Goodwill years ago. Web results (including the fan wiki, Reddit, or other fan sites) are turning up nothing so far.\n\nI’m on the hunt. I will report back.\n",
 				"date_published": "2025-07-22T22:01:31-05:00",
 				"url": "https://haglund.app/2025/07/22/i-have-an-object-in.html"
+			},
+			{
+				"id": "http://haglund.micro.blog/2025/07/16/today-i-realized-i-toooften.html",
+				
+				"content_html": "<p>Today I realized I too-often mutter Christopher Walken’s “They say you all have pouches” and Tuturro’s “To carry young?” from <em>Severance</em> s1e5. It’s a special kind of illness.</p>\n<p>I also consider Adam Scott’s line “it helps to focus on the effects of sleep” (s1e2) while drinking coffee most mornings.</p>\n<p>(My thanks to <a href=\"https://severance.wiki\">Severance Wiki</a> for having <a href=\"https://severance.wiki/the_grim_barbarity_of_optics_and_design_transcript?s%5B%5D=pouches\">searchable scripts</a> for every episode.)</p>\n",
+				"content_text": "Today I realized I too-often mutter Christopher Walken’s “They say you all have pouches” and Tuturro’s “To carry young?” from *Severance* s1e5. It’s a special kind of illness.\n\nI also consider Adam Scott’s line “it helps to focus on the effects of sleep” (s1e2) while drinking coffee most mornings.\n\n(My thanks to [Severance Wiki](https://severance.wiki) for having [searchable scripts](https://severance.wiki/the_grim_barbarity_of_optics_and_design_transcript?s[]=pouches) for every episode.)\n",
+				"date_published": "2025-07-16T19:23:44-05:00",
+				"url": "https://haglund.app/2025/07/16/today-i-realized-i-toooften.html"
 			},
 			{
 				"id": "http://haglund.micro.blog/2025/07/16/depending-on-your-definition-of.html",

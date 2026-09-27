@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2026/09/27/the-vibes-were-exceptional-at.html",
+				
+				"content_html": "<p>The vibes were exceptional at <a href=\"https://thisispygmalion.com/\">Pygmalian</a> last night with <a href=\"https://www.ratboysband.com/\">Ratboys</a>. Check out <a href=\"https://music.apple.com/us/album/open-up/6812856644?i=6812857065\"><em>Open Up</em></a> from their new record.</p>\n<p><a href=\"https://www.megasoundband.com/\">Megasound</a> killed it too.</p>\n",
+				"content_text": "The vibes were exceptional at [Pygmalian](https://thisispygmalion.com/) last night with [Ratboys](https://www.ratboysband.com/). Check out [_Open Up_](https://music.apple.com/us/album/open-up/6812856644?i=6812857065) from their new record.\n\n[Megasound](https://www.megasoundband.com/) killed it too.\n",
+				"date_published": "2026-09-27T09:19:44-05:00",
+				"url": "https://haglund.app/2026/09/27/the-vibes-were-exceptional-at.html"
+			},
+			{
+				"id": "http://haglund.micro.blog/2026/09/23/meet-trackstar-my-free-app.html",
+				
+				"content_html": "<p>Meet <a href=\"https://apps.apple.com/us/app/trackstar-media/id6812106538\">TrackStar</a>: my free app for tracking movies, TV, games, books, and music with cast &amp; crew lookup.</p>\n<p>It is <em>by far</em> my most complex app and combines features from two apps I love (<a href=\"https://www.sofahq.com/\">Sofa</a> and <a href=\"https://callsheetapp.com/\">CallSheet</a>).</p>\n<img src=\"uploads/2026/9f940f1ecd.jpg\" alt=\"The app icon for TrackStar, featuring a terrazzo texture matching the iconic star-studded sidewalk in Hollywood.\">\n",
+				"content_text": "Meet [TrackStar](https://apps.apple.com/us/app/trackstar-media/id6812106538): my free app for tracking movies, TV, games, books, and music with cast & crew lookup.\n\nIt is _by far_ my most complex app and combines features from two apps I love ([Sofa](https://www.sofahq.com/) and [CallSheet](https://callsheetapp.com/)).\n\n<img src=\"uploads/2026/9f940f1ecd.jpg\" alt=\"The app icon for TrackStar, featuring a terrazzo texture matching the iconic star-studded sidewalk in Hollywood.\">\n",
+				"date_published": "2026-09-23T20:30:56-05:00",
+				"url": "https://haglund.app/2026/09/23/meet-trackstar-my-free-app.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2026/09/20/i-happened-to-see-theres.html",
 				
 				"content_html": "<p>I happened to see there’s a <a href=\"https://kotaku.com/team-behind-popular-ocarina-of-time-pc-port-admit-to-using-ai-for-years-and-now-fans-are-freaking-out-about-vibecoded-slop-2000735358\">kerfuffle</a> about the team behind <a href=\"https://www.shipofharkinian.com/\">Ship of Harkinian</a> using AI coding.</p>\n<p>I think we all need some perspective: this team makes retro games more approachable to new audiences, working in their spare time and giving it away for free. Their work is <em>not</em> slop.</p>\n",
@@ -41,8 +57,8 @@
 			{
 				"id": "http://haglund.micro.blog/2026/09/06/hanging-out-listening-to-fiddle.html",
 				
-				"content_html": "<p>Hanging out, listening to fiddle music (<a href=\"https://meadowhawk.bandcamp.com/\">Meadowhawk</a>) at <a href=\"https://www.corn-king.com/\">Corn Stock</a>. Check out that sick ass website and poster design.</p>\n<img src=\"uploads/2026/22db6c6975.jpg\" width=\"600\" height=\"450\" alt=\"photo of two fiddlers playing on stage\">\n",
-				"content_text": "Hanging out, listening to fiddle music ([Meadowhawk](https://meadowhawk.bandcamp.com/)) at [Corn Stock](https://www.corn-king.com/). Check out that sick ass website and poster design.\n\n<img src=\"uploads/2026/22db6c6975.jpg\" width=\"600\" height=\"450\" alt=\"photo of two fiddlers playing on stage\">\n",
+				"content_html": "<p>Hanging out, listening to fiddle music (<a href=\"https://meadowhawk.bandcamp.com/\">Meadowhawk</a>) at <a href=\"https://www.corn-king.com/\">Corn Stock</a>. Check out that sick ass website and poster design.</p>\n<img src=\"https://cdn.uploads.micro.blog/31180/2026/22db6c6975.jpg\" width=\"600\" height=\"450\" alt=\"photo of two fiddlers playing on stage\">\n",
+				"content_text": "Hanging out, listening to fiddle music ([Meadowhawk](https://meadowhawk.bandcamp.com/)) at [Corn Stock](https://www.corn-king.com/). Check out that sick ass website and poster design.\n\n<img src=\"https://cdn.uploads.micro.blog/31180/2026/22db6c6975.jpg\" width=\"600\" height=\"450\" alt=\"photo of two fiddlers playing on stage\">\n",
 				"date_published": "2026-09-06T15:28:35-05:00",
 				"url": "https://haglund.app/2026/09/06/hanging-out-listening-to-fiddle.html"
 			},

@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2026/09/30/welp-i-dont-think-ill.html",
+				
+				"content_html": "<p>Welp. I don’t think I’ll be attending the <a href=\"https://chicagosymphony.org/performances/26-27/featured/the-legend-of-zelda/\">Zelda Symphony in Chicago</a> next February. I am behind 14,121 other people…</p>\n",
+				"content_text": "Welp. I don’t think I’ll be attending the [Zelda Symphony in Chicago](https://chicagosymphony.org/performances/26-27/featured/the-legend-of-zelda/) next February. I am behind 14,121 other people…\n",
+				"date_published": "2026-09-30T12:49:14-05:00",
+				"url": "https://haglund.app/2026/09/30/welp-i-dont-think-ill.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2026/09/27/the-vibes-were-exceptional-at.html",
 				
-				"content_html": "<p>The vibes were exceptional at <a href=\"https://thisispygmalion.com/\">Pygmalian</a> last night with <a href=\"https://www.ratboysband.com/\">Ratboys</a>. Check out <a href=\"https://music.apple.com/us/album/open-up/6812856644?i=6812857065\"><em>Open Up</em></a> from their new record.</p>\n<p><a href=\"https://www.megasoundband.com/\">Megasound</a> killed it too.</p>\n",
-				"content_text": "The vibes were exceptional at [Pygmalian](https://thisispygmalion.com/) last night with [Ratboys](https://www.ratboysband.com/). Check out [_Open Up_](https://music.apple.com/us/album/open-up/6812856644?i=6812857065) from their new record.\n\n[Megasound](https://www.megasoundband.com/) killed it too.\n",
+				"content_html": "<p>The vibes were exceptional at <a href=\"https://thisispygmalion.com/\">Pygmalion</a> last night with <a href=\"https://www.ratboysband.com/\">Ratboys</a>. Check out <a href=\"https://music.apple.com/us/album/open-up/6812856644?i=6812857065\"><em>Open Up</em></a> from their new record.</p>\n<p><a href=\"https://www.megasoundband.com/\">Megasound</a> killed it too.</p>\n",
+				"content_text": "The vibes were exceptional at [Pygmalion](https://thisispygmalion.com/) last night with [Ratboys](https://www.ratboysband.com/). Check out [_Open Up_](https://music.apple.com/us/album/open-up/6812856644?i=6812857065) from their new record.\n\n[Megasound](https://www.megasoundband.com/) killed it too.\n",
 				"date_published": "2026-09-27T09:19:44-05:00",
 				"url": "https://haglund.app/2026/09/27/the-vibes-were-exceptional-at.html"
 			},

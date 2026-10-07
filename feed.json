@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2026/10/07/im-a-daily-netnewswire-user.html",
+				
+				"content_html": "<p>I’m a daily NetNewsWire user and I made a <a href=\"https://github.com/Ranchero-Software/NetNewsWire/issues/5386\">feature request</a> a while ago to hide unread counts. Today Brent <a href=\"https://netnewswire.blog/2026/10/07/new-mac-beta-with-column.html\">announced</a> the new Mac beta has this feature.</p>\n<p>I doubt I was the only (let alone the first) to suggest or want this feature, but it feels <em>very</em> cool when a feature you asked for becomes real.</p>\n",
+				"content_text": "I’m a daily NetNewsWire user and I made a [feature request](https://github.com/Ranchero-Software/NetNewsWire/issues/5386) a while ago to hide unread counts. Today Brent [announced](https://netnewswire.blog/2026/10/07/new-mac-beta-with-column.html) the new Mac beta has this feature.\n\nI doubt I was the only (let alone the first) to suggest or want this feature, but it feels _very_ cool when a feature you asked for becomes real.\n",
+				"date_published": "2026-10-07T16:17:32-05:00",
+				"url": "https://haglund.app/2026/10/07/im-a-daily-netnewswire-user.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2026/09/30/welp-i-dont-think-ill.html",
 				
 				"content_html": "<p>Welp. I don’t think I’ll be attending the <a href=\"https://chicagosymphony.org/performances/26-27/featured/the-legend-of-zelda/\">Zelda Symphony in Chicago</a> next February. I am behind 14,121 other people…</p>\n",

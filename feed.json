@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://haglund.micro.blog/2026/10/31/on-the-past-few-halloween.html",
+				
+				"content_html": "<p>On the past few Halloween nights, someone has driven slowly through my neighborhood, blasting the theme to Halloween. Creepy, but I hope it’s all in good fun.</p>\n<p>This eve instead I heard the sound of live fiddle music. A half block later I behold a sight.</p>\n<p><video controls=\"controls\" playsinline=\"playsinline\" preload=\"none\" width=\"1920\" height=\"1080\" poster=\"https://cdn.uploads.micro.blog/31180/2026/frames/1887490-0-7caac6.jpg\" src=\"https://cdn.uploads.micro.mov/31180/2026/img-5566/playlist.m3u8\"></video></p>\n",
+				"content_text": "On the past few Halloween nights, someone has driven slowly through my neighborhood, blasting the theme to Halloween. Creepy, but I hope it’s all in good fun.\n\nThis eve instead I heard the sound of live fiddle music. A half block later I behold a sight.\n\n<video controls=\"controls\" playsinline=\"playsinline\" preload=\"none\" width=\"1920\" height=\"1080\" poster=\"https://cdn.uploads.micro.blog/31180/2026/frames/1887490-0-7caac6.jpg\" src=\"https://cdn.uploads.micro.mov/31180/2026/img-5566/playlist.m3u8\"></video>\n",
+				"date_published": "2026-10-31T23:48:23-05:00",
+				"url": "https://haglund.app/2026/10/31/on-the-past-few-halloween.html"
+			},
+			{
 				"id": "http://haglund.micro.blog/2026/10/30/i-think-wed-be-better.html",
 				
 				"content_html": "<p>I think we’d be better off if Sam was stuck in a data center. Cheeky Pint podcast <a href=\"https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers\">via</a> The Verge:</p>\n<blockquote>\n<p>it’s quite terrible to have everybody have a bunch of the world’s limited supply of DRAM sitting in their own computer and being used five percent of the time.</p>\n</blockquote>\n<p>He’s the reason there’s a limited supply.</p>\n",
